@@ -1,5 +1,3 @@
-t = int(input())
+n, b = input().split()
+b = int(b)
 
-for i in range(t):
-    n = int(input())
-    
